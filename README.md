@@ -10,8 +10,8 @@ HR Data: The primary dataset used for this project is the "HR data_xlxs" file co
 ### Tools
 
 - Excel- Data Cleaning [Download Here](https://microsoft.com)
-- SQL_Server- Data Analysis [Download Here](
-- PowerBI- Creating Reports
+- SQL_Server- Data Analysis [Download Here](https:/ SQL.com)
+- PowerBI- Creating Reports[Download Here](https://powerBI.com)
 
 ### Data cleaning/Preparation
 
@@ -32,6 +32,12 @@ EDA involved exploring the HR Data to answer key questions, such as;
 - Total number of Employee
 - Rate of Attrition
 
-  ###Data Visualization
+### Data Visualization
   
   ![HR IMAGE](https://github.com/user-attachments/assets/ef0526d3-2076-42cd-95a7-e92cd710a117)
+
+
+### Results 
+
+
+### Conclusions and Recommendations 
